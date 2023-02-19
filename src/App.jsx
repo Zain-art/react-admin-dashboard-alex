@@ -8,7 +8,7 @@ import Dashboard from './scense/dashboard';
 import Sidebars from './scense/global/Sidebar'
 import Team from './scense/team/Team'
 import Contacts from './scense/contacts/Contacts'
-import Invoices from './scense/invoices/Invoices'
+import Invoices from './scense/Invoices/Invoices'
 import Calender from './scense/calender/Calender'
 import Form from './scense/form/UserForm'
 import Bar from './scense/bar/BarChat'
